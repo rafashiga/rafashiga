@@ -4,8 +4,8 @@ I'm Rafael Shiga. Nice to meet you!
 I'm a front-end developer from São Paulo, Brazil.
 
 - 🔭 I’m currently developing web app with Angular.
-- 🌱 I’m currently learning React, Angular, Unit Testing and Back-end with Nodejs.
-- 💬 Ask me about anything, I will try to help you.
+- 🌱 I’m currently learning React, Angular, Unit Testing and Back-end Nodejs.
+- 💬 Ask me about code, photograph, movies, tv shows, anime, music, games... anything.
 
 ### Connect with me:
 
