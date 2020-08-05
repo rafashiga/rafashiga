@@ -19,7 +19,7 @@ I'm a front-end developer from São Paulo, Brazil.
 
 <p>
 
-<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafashiga&theme=dracula" alt="top langs">
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafashiga" alt="top langs">
 
 <code><img alt="Visual Studio Code" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>
 <code><img alt="HTML5" width="5%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
@@ -50,7 +50,7 @@ I'm a front-end developer from São Paulo, Brazil.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafashiga&theme=dracula" alt="Rafa's github Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=rafashiga" alt="Rafa's github Stats">
 
 </p>
 
