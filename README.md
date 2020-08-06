@@ -14,7 +14,7 @@ I'm a front-end developer from São Paulo, Brazil.
 [<img align="left" alt="rafashiga.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rafael LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shiga.photos Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="shiga.photos Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/unsplash.svg" />][unsplash]
+[<img align="left" alt="unsplash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/unsplash.svg" />][unsplash]
 
 <br />
 
