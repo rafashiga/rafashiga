@@ -1,10 +1,12 @@
-# Hi!! 👋
+<h1> Hi!!
+<img width="23px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hello"/>
+</h1>
 
 I'm Rafael Shiga.
 I'm a front-end developer from São Paulo, Brazil.
 
-- 🔭 I’m currently developing web app with Angular.
-- 🌱 I’m currently learning React, Angular, Unit Testing and Back-end Nodejs.
+- 🔭 I’m currently working at TCS.
+- 🌱 I’m currently learning React, Angular, Unit Testing and Nodejs Back-end.
 - 💬 Ask me about code, photograph, movies, tv shows, anime, music, games... anything.
 
 ### Connect with me:
@@ -12,6 +14,7 @@ I'm a front-end developer from São Paulo, Brazil.
 [<img align="left" alt="rafashiga.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Rafael LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shiga.photos Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="shiga.photos Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/unsplash.svg" />][unsplash]
 
 <br />
 
@@ -37,7 +40,7 @@ I'm a front-end developer from São Paulo, Brazil.
 </p>
 <br><br><br><br><br>
 <br><br><br><br><br>
-<br><br><br><br><br>
+<br><br><br>
 
 <div align="center">
 
@@ -51,3 +54,4 @@ I'm a front-end developer from São Paulo, Brazil.
 [instagram]: https://instagram.com/shiga.photos
 [linkedin]: https://br.linkedin.com/in/shiga-rafael
 [github]: https://github.com/rafashiga
+[unsplash]: https://unsplash.com/@rshiga
