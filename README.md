@@ -51,7 +51,7 @@ I'm a front-end developer from São Paulo, Brazil.
 </div>
 
 [website]: https://shiga.vercel.app/
-[instagram]: https://instagram.com/shiga.photos
+[instagram]: https://instagram.com/rafashiga
 [linkedin]: https://br.linkedin.com/in/shiga-rafael
 [github]: https://github.com/rafashiga
 [unsplash]: https://unsplash.com/@rshiga
