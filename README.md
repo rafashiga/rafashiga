@@ -5,8 +5,7 @@
 I'm Rafael Shiga.
 I'm a front-end developer from São Paulo, Brazil.
 
-- 🔭 I’m currently working at TCS.
-- 🌱 I’m currently learning React, Angular, Unit Testing and Nodejs Back-end.
+- 🌱 I’m currently learning React.
 - 💬 Ask me about code, photograph, movies, tv shows, anime, music, games... anything.
 
 ### Connect with me:
