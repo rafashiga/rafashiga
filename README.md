@@ -5,15 +5,17 @@
 I'm Rafael Shiga.
 I'm a front-end developer from São Paulo, Brazil.
 
+- 👨🏽‍💻 I’m currently working at [PayGo](https://paygo.com.br/)
 - 🌱 I’m currently learning React.
 - 💬 Ask me about code, photograph, movies, tv shows, anime, music, games... anything.
 
 ### Connect with me:
 
-[<img align="left" alt="rafashiga.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Rafael LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="shiga.photos Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="unsplash" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/unsplash.svg" />][unsplash]
+[![Webbsite](https://img.shields.io/badge/-Website-009f9d?style=flat&labelColor=009f9d&logo=internetexplorer&logoColor=white)](https://www.instagram.com/rafashiga/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shiga-rafael?originalSubdomain=br/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/rafashiga/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rafashiga)
+[![Unsplash](https://img.shields.io/badge/-Unsplash-393e46?style=flat&labelColor=393e46&logo=unsplash&logoColor=white)](https://unsplash.com/@rshiga)
 
 <br />
 
