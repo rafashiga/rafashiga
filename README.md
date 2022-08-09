@@ -5,7 +5,7 @@
 I'm Rafael Shiga.
 I'm a front-end developer from São Paulo, Brazil.
 
-- 👨🏽‍💻 I’m currently working at [PayGo](https://paygo.com.br/)
+- 👨🏽‍💻 I’m currently working at [C6 Bank](https://www.c6bank.com.br/)
 - 🌱 I’m currently learning React.
 - 💬 Ask me about code, photograph, movies, tv shows, anime, music, games... anything.
 
